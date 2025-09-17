@@ -60,7 +60,7 @@ Retail Sales_Project/
 
 ##  Main Dashboard Screenshot
 
-![Retail Sales Dashboard](PowerBI_Dashboard/Dashboardd.png)
+![Retail Sales Dashboard](PowerBIDashboard/Dashboardd.png)
 
 > Quick glance at core KPIs, trends, and insights from the RetailDB pipeline
 
